@@ -4,4 +4,4 @@ Mobile now a days is one of the most selling and purchasing device. Every day ne
 
 The objective is to find out some relation between features of a mobile phone (eg :- RAM, Internal Memory etc) and its selling price.
 Further, based on different features of the mobile phones, develop a model that would classify each mobile into different categories of price range i.e. into categorical values of 0(low), 1(moderate), 2(high), and 3(very high).
-![image](https://user-images.githubusercontent.com/43450695/141678862-1fc45c8b-ee96-4922-949c-083e3c02dd31.png)
+
